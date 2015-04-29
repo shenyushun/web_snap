@@ -1,6 +1,6 @@
 # coding=utf-8
 '''
-@Author：XingSongYan
+@Author：sys
 @CreateDate： Wed Apr 29 09:12:56 HKT 2015
 @FileName：
 @Description：负责把传入的url进行快照并生成pdf。接口以post的方法接受3个参数：
